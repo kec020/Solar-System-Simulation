@@ -1,0 +1,8 @@
+﻿  MyGeometries.cpp
+E:\Visual Studio 2022\My155AProjects\Project7\MyGeometries.cpp(100,31): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Visual Studio 2022\My155AProjects\Project7\MyGeometries.cpp(101,32): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Visual Studio 2022\My155AProjects\Project7\MyGeometries.cpp(963,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Visual Studio 2022\My155AProjects\Project7\MyGeometries.cpp(964,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  TextureProj.cpp
+  Generating Code...
+  Project7.vcxproj -> E:\Visual Studio 2022\My155AProjects\Project7\x64\Debug\Project7.exe
